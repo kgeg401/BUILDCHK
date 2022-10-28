@@ -1,6 +1,1 @@
-### Displayed below will be the hostname
-$ hostname
-### Displayed below will be the uptime of this specific server. 
-uptime
-### Displayed below will be the Disk
-fdisk -l
+$ hostname && uptime && ip addr show && cat /proc/meminfo
