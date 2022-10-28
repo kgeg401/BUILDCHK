@@ -1,1 +1,1 @@
-$ hostname && uptime && ip addr show && cat /proc/meminfo
+hostname && uptime && ip addr show && cat /proc/meminfo
